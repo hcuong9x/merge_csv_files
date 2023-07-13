@@ -3,3 +3,5 @@ env/
 .vscode/
 input/*
 output/*
+dist/*
+build/*
